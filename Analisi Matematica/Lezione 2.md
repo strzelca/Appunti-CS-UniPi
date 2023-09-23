@@ -132,8 +132,8 @@ $f(x) = sin(x), f : \mathbb{R} \to \mathbb{R}$ è periodica di periodo $2π$, ci
 > La funzione è strettamente crescente se $a > 1$ e strettamente decrescente se $0 < a < 1$
 > 
 > Se prendo come codominio l'insieme $(0, +\infty)$, la funzione $a^x$ è biunivoca, la sua inversa è $f^{-1}(x) = log_a(x)$, l'esponente che devo dare ad $a$ per ottenere $x$
-	![[Pasted image 20230922104137.png]]
-3. `f(x) = e^x`, l'inversa della funzione è il logaritmo naturale
+> ![[Funzioni Logaritmiche.png]]
+1. $f(x) = e^x$, l'inversa della funzione è il logaritmo naturale
 	![[Logaritmo Naturale.png]]
 4. $f(x) = x^\alpha, \alpha \in \mathbb{R}$
    > $x^\alpha  = e^{\alpha*log(x)}$
@@ -142,13 +142,14 @@ $f(x) = sin(x), f : \mathbb{R} \to \mathbb{R}$ è periodica di periodo $2π$, ci
   1. $f(x) = sin(x)$
   2. $f(x) = cos(x)$ 
 > $cos(x) = sin(x+\pi/2)$
-	![[Pasted image 20230922104800.png]]
+	![[Funzioni Trigonometriche Seno e Coseno.png]]
 	Queste funzioni non sono invertibili come $f : \mathbb{R} \to \mathbb{R}$ ($-1 \leq cos(x) \leq 1, -1 \leq sin(x) \leq 1$)
 	Si possono invertire dopo aver ristretto dominio e codominio.
 	$sin(x)$ è biunivoca se la vedo come funzione $[\frac{\pi}{2},\frac{\pi}{2}] \to [-1,1]$
 	La sua inversa si indica con $arcsin(x)$ e si chiama arcoseno di $x$
 	Uguale per il *coseno* vedendolo come una funzione $[0,\pi] \to [-1,1]$, l'inversa si chiama *arcoseno* e si denota con $arccos(x) : [-1,1] \to [0,\pi]$
-	![[Pasted image 20230922105541.png]]
+	![[Funzioni Trigonometriche Inverse.png]]
+
 3. $f(x) = tan(x) = \frac{sin(x)}{cos(x)}, D: \mathbb{R} \setminus\{\frac{\pi}{2}+k\pi\}, k \in \mathbb{R}$
    > è periodica di periodo $\pi$
    > ![[Funzioni Trigonometriche (Co)Tangente.png]]
