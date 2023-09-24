@@ -1,4 +1,11 @@
-#### Funzioni Monotone
+---
+title: Lezione 2
+subject: Analisi Matematica
+date: 22-09-2022
+arguments: Funzioni Monotone, Composizione di Funzioni Monotone, Funzioni Pari o Dispari, Funzioni Periodiche, Funzioni Elementari
+---
+
+# Funzioni Monotone
 
 
 > $A,B \subseteq \mathbb{R}, f : A \to B$ , con $x_1, x_2 \in A$ e $x_1 < x_2$

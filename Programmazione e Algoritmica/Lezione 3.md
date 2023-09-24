@@ -1,4 +1,11 @@
-### Classificazione delle grammatiche
+---
+title: Lezione 3
+subject: Programmazione e Algoritmica
+date: 20-09-2022
+arguments: Classificazione delle grammatiche, Gerarchia di Chomsky, Sintassi BNF, Linguaggi generati da grammatiche, Alberi di derivazione
+---
+
+# Classificazione delle grammatiche
 **Gerarchia di Chomsky**: basata sulla forma delle produzione
 * _Grammatiche di tipo 0_ - `(α,β),α ∈ (Ν ∪ Σ)+, β ∈ (Ν ∪ Σ)*` 
 	> **Macchina di Turing**

@@ -1,4 +1,10 @@
-### Τα γενεσις
+---
+title: Lezione 1
+subject: Sistemi Operativi
+date: 20-09-2022
+arguments: Single-Cycle, Pipeline e Superscalar
+---
+
 * Architetture degli Elaboratori
 * Sistemi Operativi
 

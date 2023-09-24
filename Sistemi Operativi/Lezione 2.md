@@ -1,9 +1,16 @@
-###### Modularità
+---
+title: Lezione 2
+subject: Sistemi Operativi
+date: 22-09-2022
+arguments: Modularità, Rappresentazione Binaria Modulo-Segno e Complemento a Due
+---
+
+# Modularità
 
 Per indirizzare una memoria di *1GB* sono necessari `30bit` e verrà restituito un valore di 8bit, per indirizzare *2GB* (1GB + 1GB moduli) sono necessari `31bit`, 30bit per l'indirizzamento e 1bit (bit più significativo) per informare un **Multiplexer** a quale memoria vogliamo accedere.
 
 
-##### Rappresentazione di numeri binari relativi
+# Rappresentazione di numeri binari relativi
 
 1. Rappresentazione Modulo e Segno
 	Il MSB indica il segno, il restante indica il modulo
