@@ -4,5 +4,6 @@
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Noto Sans",
   "textFontFamily": "Noto Sans",
-  "monospaceFontFamily": "JetBrainsMono NFM"
+  "monospaceFontFamily": "JetBrainsMono NFM",
+  "nativeMenus": false
 }

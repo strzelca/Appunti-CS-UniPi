@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasImage",
+      "FasFlask",
+      "FasMemory",
+      "FasCode",
+      "FasDesktop"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +21,11 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "Analisi Matematica": "FasCalculator",
+  "Fondamenti di Informatica": "FasDesktop",
+  "Programmazione e Algoritmica": "FasCode",
+  "Sistemi Operativi": "FasMemory",
+  "Laboratorio I": "FasFlask",
+  "Images": "FasImage"
 }

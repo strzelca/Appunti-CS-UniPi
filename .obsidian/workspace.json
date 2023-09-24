@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archivio Generale.md",
+                "file": "Analisi Matematica/Lezione 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archivio Generale.md",
+                "file": "Analisi Matematica/Lezione 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archivio Generale.md",
+                "file": "Analisi Matematica/Lezione 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,39 +162,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archivio Generale.md"
+                "file": "Analisi Matematica/Lezione 2.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4872cde07f401f0d",
+  "active": "b1b5e07fefb17e17",
   "lastOpenFiles": [
+    "Archivio Generale.md",
     "README.md",
+    "Analisi Matematica/Lezione 2.md",
     "Analisi Matematica/Archivio.md",
+    "vedi esempio.md",
+    "Sistemi Operativi/Lezione 2.md",
     "Programmazione e Algoritmica/Lezione 3.md",
     "Programmazione e Algoritmica/Archivio.md",
-    "Analisi Matematica/Lezione 2.md",
     "Fondamenti di Informatica/Lezione 3.md",
     "Laboratorio I/Lezione 1.md",
-    "Archivio Generale.md",
-    "Sistemi Operativi/Lezione 2.md",
     "Sistemi Operativi/Lezione 1.md",
     "Pasted image 20230922104800.png.md",
     "README.md.md",
