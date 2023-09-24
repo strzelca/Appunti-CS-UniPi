@@ -135,7 +135,7 @@ $f(x) = sin(x), f : \mathbb{R} \to \mathbb{R}$ è periodica di periodo $2π$, ci
   1. $f(x) = a^x, a \in \mathbb{R}, a > 0$ e $a \neq 1, D: \mathbb{R}$
      ![[Funzioni Esponenziali.png]]
  2.  $f(x) = a^x, a \in \mathbb{R}, a < 1, D: \mathbb{R}$
-    ![[Funzioni Esponenziali Base<1.png]]
+    ![[Funzioni Esponenziali Base Min 1.png]]
 > La funzione è strettamente crescente se $a > 1$ e strettamente decrescente se $0 < a < 1$
 > 
 > Se prendo come codominio l'insieme $(0, +\infty)$, la funzione $a^x$ è biunivoca, la sua inversa è $f^{-1}(x) = log_a(x)$, l'esponente che devo dare ad $a$ per ottenere $x$
