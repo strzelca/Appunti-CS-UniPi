@@ -35,11 +35,7 @@ arguments: Funzioni Monotone, Composizione di Funzioni Monotone, Funzioni Pari o
 <hr>
 # Composizione di funzioni monotone
 
->$$
-A,B,C \subseteq \mathbb{R}, f : A \to B, g : B \to C
-$$ $$
-g•f : A \to C, (g•f)(a) = g(f(a))
-$$
+>$$A,B,C \subseteq \mathbb{R}, f : A \to B, g : B \to C$$$$g•f : A \to C, (g•f)(a) = g(f(a))$$
 
 **Allora abbiamo che**
 1. se $f$ e $g$ sono (strettamente o debolmente) crescenti, allora $g•f$ è pure (strettamente o debolmente) crescente
