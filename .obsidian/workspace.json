@@ -54,9 +54,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "610040a4a8132c0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "4f9d18059f195d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmazione e Algoritmica/Grammatiche e Sintassi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ee60afa16e77a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmazione e Algoritmica/Archivio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi Matematica/Lezione 2.md",
+                "file": "Programmazione e Algoritmica/Archivio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi Matematica/Lezione 2.md",
+                "file": "Programmazione e Algoritmica/Archivio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi Matematica/Lezione 2.md"
+                "file": "Programmazione e Algoritmica/Archivio.md"
               }
             }
           }
@@ -185,17 +219,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1b5e07fefb17e17",
+  "active": "3ee60afa16e77a12",
   "lastOpenFiles": [
+    "Programmazione e Algoritmica/Lezione 3.md",
+    "Programmazione e Algoritmica/Macchine Astratte.md",
+    "Programmazione e Algoritmica/Grammatiche e Sintassi.md",
+    "Programmazione e Algoritmica/Linguaggio L.md",
+    "Images/Abstract Memory.png",
+    "Images/Von Neumann Arch.png",
+    "Fondamenti di Informatica/Lezione 3.md",
+    "Analisi Matematica/Lezione 2.md",
+    "Images/Quadrupla Grammatica.png",
     "Archivio Generale.md",
     "README.md",
-    "Analisi Matematica/Lezione 2.md",
     "Analisi Matematica/Archivio.md",
     "vedi esempio.md",
     "Sistemi Operativi/Lezione 2.md",
-    "Programmazione e Algoritmica/Lezione 3.md",
     "Programmazione e Algoritmica/Archivio.md",
-    "Fondamenti di Informatica/Lezione 3.md",
     "Laboratorio I/Lezione 1.md",
     "Sistemi Operativi/Lezione 1.md",
     "Pasted image 20230922104800.png.md",
@@ -212,9 +252,6 @@
     "Images/Funzioni Trigonometriche Seno e Coseno.png",
     "Images/Logaritmo Naturale.png",
     "Images/Funzioni Logaritmiche.png",
-    "Images/Funzioni Esponenziali Base Min 1.png",
-    "Images/Funzioni Esponenziali.png",
-    "Images/Funzioni Potenza Frazionaria Negativa.png",
     "Fondamenti di Informatica",
     "Images",
     "Programmazione e Algoritmica",
